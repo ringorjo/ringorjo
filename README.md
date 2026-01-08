@@ -1,9 +1,3 @@
-Perfect! Here is the English version of the README, maintaining the clean aesthetic and the badges from the darkalardev style.
-
-I've also updated the section titles and descriptions to sound professional and engaging in English.
-
-Markdown
-
 # Hi there! I'm Jonathan  👋
 
 <p align="center">

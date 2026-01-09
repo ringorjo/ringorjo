@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 
 - 👨‍💻 Senior Game Dev & AI
-- 🌱 Engines: Unity (Expert) & Unreal Engine (C++/Blueprints).
+- 🌱 Engines: Unity (C#) & Unreal Engine (C++/Blueprints).
 - 💬 Ask me about **Web Development, Mobile Apps, or anything Tech related**
 - ⚡ Architecture: Strong advocate for SOLID patterns, custom editor tools, and performance optimization.
 - 📫 How to reach me: **ringorjo@gmail.com**
